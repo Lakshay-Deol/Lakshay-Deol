@@ -39,7 +39,7 @@
 
 ---
 
-<h2> Connect with me 🤝 </h2>
+<!-- <h2> Connect with me 🤝 </h2>
 
 <p align="center">
 
@@ -55,15 +55,15 @@
 <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-</p>
+</p> -->
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </div>
 
----
+--- -->
 
 ## 📄 Resume
 
@@ -119,8 +119,8 @@
 
 ## 👁 Profile Views
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=LAKSHAY_DEOL&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
 
-</p>
+</p> -->
